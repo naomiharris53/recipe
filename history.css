@@ -1,0 +1,17 @@
+.navbar-inverse {
+    background-color: pink;
+    border-color: pink;
+    font-family: 'Coiny', cursive;
+}
+ul.nav{
+	font-size: 20px;
+	font-family: 'Coiny', cursive;
+
+}
+.container{
+
+}
+
+.reasons {
+	padding: 50px 0;
+}

@@ -1,0 +1,84 @@
+.navbar-inverse {
+    background-color: pink;
+    border-color: pink;
+    font-family: 'Coiny', cursive;
+    margin-bottom: 0;
+}
+ul.nav li {
+	font-size: 20px;
+	font-family: 'Coiny', cursive;
+
+}
+a.navbar-brand {
+	background-color: #48A9A6;
+}
+.navbar-inverse .navbar-brand {
+    color: white; 
+
+}
+.top {
+	background-color: teal;
+}
+.top h1 {
+	font-family: 'Coiny', cursive;
+	color: white;
+}
+.fair {
+    background-color:red;
+   	color:white;
+    font-family: 'Coiny', cursive;
+    padding: 50px 0;
+}
+
+.sheridans {
+    background-color:orange;
+   	color:white;
+    font-family: 'Coiny', cursive;
+    padding: 50px 0;
+}
+.gracie {
+	color:white;
+	background-color:#FFD166;
+	font-family: 'Coiny', cursive;
+}
+.jerry{
+	background-color:green;
+	 font-family: 'Coiny', cursive;
+	 color:white;
+}
+.Quintessential{
+	background-color: blue;
+	 font-family: 'Coiny', cursive;
+	 color:white;
+
+}
+.miccos{
+	background-color:#493843; 
+    font-family: 'Coiny', cursive;
+    color:white;
+}
+.micco{
+	background-color:pink;	
+	font-family: 'Coiny', cursive;
+	color:#48A9A6;
+}
+.sixth{
+	background-color:red;
+	font-family: 'Coiny', cursive;
+	color:white;
+}
+.seventh{
+	background-color:orange;
+	 font-family: 'Coiny', cursive;
+	 color:#48A9A6;
+}
+.places{
+	background-color: #FFD166;
+	 font-family: 'Coiny', cursive;
+	 color:#48A9A6;
+	}
+div.class {
+  height: 20px;
+  width: 20px;
+
+}

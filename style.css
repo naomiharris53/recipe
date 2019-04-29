@@ -1,0 +1,78 @@
+.navbar-inverse {
+    background-color: pink;
+    border-color: pink;
+    font-family: 'Coiny', cursive;
+    margin-bottom: 0;
+}
+ul.nav li {
+	font-size: 20px;
+	font-family: 'Coiny', cursive;
+
+}
+a.navbar-brand {
+	background-color: #48A9A6;
+}
+.navbar-inverse .navbar-brand {
+    color: white; 
+
+}
+.reasons {
+    background-color:#6184D8;
+   	color:white;
+    font-family: 'Coiny', cursive;
+    padding: 10px 0;
+}
+
+.reasons-2 {
+    background-color:pink;
+   	color:white;
+    font-family: 'Coiny', cursive;
+    padding: 50px 0;
+}
+.first {
+	color:#48A9A6;
+	background-color:#E54B4B;
+	 font-family: 'Coiny', cursive;
+}
+.second{
+	background-color:#FF963C;
+	 font-family: 'Coiny', cursive;
+	 color:white;
+}
+.third{
+	background-color: #F2FF49;
+	 font-family: 'Coiny', cursive;
+	 color:#48A9A6;
+
+}
+.fourth{
+	background-color:#8EF88E; 
+    font-family: 'Coiny', cursive;
+    color:white;
+}
+.fifth{
+	background-color:#5BC0EB;	
+	font-family: 'Coiny', cursive;
+	color:#48A9A6;
+}
+.sixth{
+	background-color:#9D74C9;
+	font-family: 'Coiny', cursive;
+	color:white;
+}
+.seventh{
+	background-color:#E87DB0;
+	 font-family: 'Coiny', cursive;
+	 color:#48A9A6;
+}
+img{
+	  height: 150px;
+  width: 150px;
+  padding:10px;
+}
+
+div.class {
+  height: 10px;
+  width: 10px;
+
+}
